@@ -5,7 +5,7 @@ a {
 
 a:hover,
 a:active {
-  color: lightgrey;
+  color: lightgray;
 }
 
 .navigation-items {
@@ -16,5 +16,5 @@ a:active {
 
 .nav-caption {
   display: inline-block;
-  padding: 6px;
+  padding-left: 6px;
 }
